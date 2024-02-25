@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf392d9bebc454423bb04454e3556503
+timeCreated: 1522866913
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Colorizer/Colorizer.asset
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14d8bd20ce38543d295c71ede3947ace
+timeCreated: 1509361789
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Trees/GrassForestTree/VoxelTree1Bark.asset
+  uploadId: 643770

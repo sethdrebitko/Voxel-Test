@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c8445380140245d0b4806a2ee8972b6
+timeCreated: 1509363729
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Earth.asset
+  uploadId: 643770

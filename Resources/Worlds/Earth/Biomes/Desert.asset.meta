@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b32e7a8ff8dad4f7d83c2fb859d4eab7
+timeCreated: 1509361177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Desert.asset
+  uploadId: 643770

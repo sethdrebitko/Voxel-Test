@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 558d42793a1534d9cb4ac60bcd2cce7a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPModelTexture.shader
+  uploadId: 643770

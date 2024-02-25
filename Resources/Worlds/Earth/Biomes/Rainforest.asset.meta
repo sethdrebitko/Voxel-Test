@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fa76bb64ddf74f36a01e64d68ed4b49
+timeCreated: 1509361177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Rainforest.asset
+  uploadId: 643770

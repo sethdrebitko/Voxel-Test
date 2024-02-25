@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efac73a350f453140963bfddf9a406d6
+timeCreated: 1509896263
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Trees/SavannahTree/SavannahTreeLeaves.asset
+  uploadId: 643770

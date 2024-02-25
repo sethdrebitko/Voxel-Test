@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3dda5f94f82e48de8e056209e1872db
+timeCreated: 1509361177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/HQForest/Biomes/ForestHQ.asset
+  uploadId: 643770

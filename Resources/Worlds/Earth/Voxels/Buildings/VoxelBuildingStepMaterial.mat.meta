@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fba59e6af6a8a4ede84aecec6432db0c
+timeCreated: 1523431817
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Buildings/VoxelBuildingStepMaterial.mat
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dd59658464c84c51b9dc260b123c3bf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPUnderwater.shader
+  uploadId: 643770

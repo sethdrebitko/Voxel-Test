@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc92959582c1e4cd7a24f6df671d1bc3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPIndirectTextureTriplanar.shader
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29c01576e3d7d4fb0a36195c7b8146b6
+timeCreated: 1513449537
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/HQForest/Trees/ForestTree/HQ_VoxelForestLeaves2.asset
+  uploadId: 643770

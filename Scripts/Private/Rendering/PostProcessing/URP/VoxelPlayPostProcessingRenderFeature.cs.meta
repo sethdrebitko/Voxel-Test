@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bef1e27e4dc244e69bbb4d8f91f85c13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Scripts/Private/Rendering/PostProcessing/URP/VoxelPlayPostProcessingRenderFeature.cs
+  uploadId: 643770

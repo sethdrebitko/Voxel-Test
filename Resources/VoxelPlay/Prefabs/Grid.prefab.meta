@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 845b9ef43a84742f0b438fee58137dbb
+timeCreated: 1509443901
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Prefabs/Grid.prefab
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d03fffc64e6d49ffb828e9f05455156
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleWater.shader
+  uploadId: 643770

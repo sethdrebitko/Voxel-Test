@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2671eb0d93c054491b765a9afa1c247b
+timeCreated: 1508855571
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/UI/crosshair.prefab
+  uploadId: 643770

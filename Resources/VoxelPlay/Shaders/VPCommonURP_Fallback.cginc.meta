@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 194d2f6e72de747358cf8fb4422a98b9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPCommonURP_Fallback.cginc
+  uploadId: 643770

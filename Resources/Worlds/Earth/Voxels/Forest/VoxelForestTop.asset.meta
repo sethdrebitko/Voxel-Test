@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e61bc438f9ed40c5bca236ab05080e4
+timeCreated: 1509378882
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Forest/VoxelForestTop.asset
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4345d89f46c994b4abe8af943f0dd778
+timeCreated: 1505146203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Skybox Earth.mat
+  uploadId: 643770

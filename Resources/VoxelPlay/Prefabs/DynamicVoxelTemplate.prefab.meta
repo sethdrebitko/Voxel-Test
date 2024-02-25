@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8ff1287fdf0c4d819ec2f0445d56b2e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Prefabs/DynamicVoxelTemplate.prefab
+  uploadId: 643770

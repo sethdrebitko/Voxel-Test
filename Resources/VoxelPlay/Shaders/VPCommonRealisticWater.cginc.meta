@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7c4dde86dc8545e69a855811b2cde78
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPCommonRealisticWater.cginc
+  uploadId: 643770

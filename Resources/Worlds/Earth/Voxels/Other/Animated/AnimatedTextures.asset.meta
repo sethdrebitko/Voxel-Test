@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b12a421e648945e3bc1ec7da621a7aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Other/Animated/AnimatedTextures.asset
+  uploadId: 643770

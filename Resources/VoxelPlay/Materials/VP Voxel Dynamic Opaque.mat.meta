@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da696c9bd60ff4180b5cdf17bd29c758
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Dynamic Opaque.mat
+  uploadId: 643770

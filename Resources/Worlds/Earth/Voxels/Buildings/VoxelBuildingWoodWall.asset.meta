@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29552f4f6b8024db1b0382f84d1bb493
+timeCreated: 1525944561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Buildings/VoxelBuildingWoodWall.asset
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 586301917b7384270b0e22d14499800b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleCutout.shader
+  uploadId: 643770

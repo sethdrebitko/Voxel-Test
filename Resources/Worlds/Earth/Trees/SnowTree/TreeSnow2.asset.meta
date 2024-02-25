@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab9db9f139e97dd408964fe06624e12c
+timeCreated: 1513621644
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Trees/SnowTree/TreeSnow2.asset
+  uploadId: 643770

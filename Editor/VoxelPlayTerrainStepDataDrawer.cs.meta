@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 60f4e97ceed33454fbf1233c86e1fc9d
+timeCreated: 1521037635
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Editor/VoxelPlayTerrainStepDataDrawer.cs
+  uploadId: 643770

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c74519e97cc2d4ea18dc838178fa4cab
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleDepthNormalsURP.cginc
+  uploadId: 643770

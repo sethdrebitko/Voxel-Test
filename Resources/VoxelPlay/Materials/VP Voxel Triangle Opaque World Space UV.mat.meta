@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 833a8e70415ae4224a168e2e33e706d8
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Triangle Opaque
+    World Space UV.mat
+  uploadId: 643770

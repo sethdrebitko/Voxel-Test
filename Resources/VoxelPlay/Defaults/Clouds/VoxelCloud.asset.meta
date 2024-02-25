@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b4e0d11699534d52892e331bcfadbb1
+timeCreated: 1510690061
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Defaults/Clouds/VoxelCloud.asset
+  uploadId: 643770

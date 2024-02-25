@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd90c48ab3c33499bacfb027596b9768
+timeCreated: 1508694979
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Crosshair.mat
+  uploadId: 643770

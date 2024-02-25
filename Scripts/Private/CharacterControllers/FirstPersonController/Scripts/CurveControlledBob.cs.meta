@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5301b97d5be9f4d3c95f5996d591b801
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/CurveControlledBob.cs
+  uploadId: 643770

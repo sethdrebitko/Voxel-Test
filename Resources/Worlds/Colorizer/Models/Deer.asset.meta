@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c7ed9f3d5abf440d8bcca88b1b29c70
+timeCreated: 1523487410
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Colorizer/Models/Deer.asset
+  uploadId: 643770

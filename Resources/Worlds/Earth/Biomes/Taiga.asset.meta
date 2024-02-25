@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7917ceb79e2334df4b1fe3467f52c8a0
+timeCreated: 1509361177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Taiga.asset
+  uploadId: 643770

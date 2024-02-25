@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d64096a9b2c244d2ca5f1efea775d1e8
+timeCreated: 1505834144
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Prefabs/ChunkGEO.prefab
+  uploadId: 643770

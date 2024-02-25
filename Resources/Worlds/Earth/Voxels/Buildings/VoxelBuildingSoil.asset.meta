@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa72687e4eccd4b53bc44810ab7cccca
+timeCreated: 1526213509
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Buildings/VoxelBuildingSoil.asset
+  uploadId: 643770

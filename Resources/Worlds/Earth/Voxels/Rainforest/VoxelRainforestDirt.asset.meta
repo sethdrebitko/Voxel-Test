@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1d70a5652a68408a89736afe490f174
+timeCreated: 1509378899
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Rainforest/VoxelRainforestDirt.asset
+  uploadId: 643770

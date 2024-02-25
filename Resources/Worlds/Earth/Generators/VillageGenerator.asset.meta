@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7079cfd4887c141b4b319f4783afe7ff
+timeCreated: 1524917850
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Generators/VillageGenerator.asset
+  uploadId: 643770

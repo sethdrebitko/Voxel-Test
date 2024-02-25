@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c21d15f2030b443559c2975e9b91239d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleWaterRealisticPass.cginc
+  uploadId: 643770

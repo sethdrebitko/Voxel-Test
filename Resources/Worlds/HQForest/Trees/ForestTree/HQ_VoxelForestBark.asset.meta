@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7000e25e6015349f9b5fdcabca3c3153
+timeCreated: 1513449513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/HQForest/Trees/ForestTree/HQ_VoxelForestBark.asset
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7ebee77f185044d7a39018fa7d3cea7
+timeCreated: 1508090603
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Prefabs/DamageParticle.prefab
+  uploadId: 643770

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d122c8d0ffca4835911fb0f70c2a412
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleOpaqueWorldSpaceUV.shader
+  uploadId: 643770

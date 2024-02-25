@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b48ff36c991c4804aa548bbb19458d0
+timeCreated: 1509378868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Desert/VoxelDesertDirt.asset
+  uploadId: 643770

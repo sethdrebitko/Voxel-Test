@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d6b36271391f4c5daa0c0e8e75be56d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleCutoutCrossShadowsURP.cginc
+  uploadId: 643770

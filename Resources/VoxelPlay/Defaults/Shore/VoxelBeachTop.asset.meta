@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: deeb7144976df446fb6fb98f7bef3729
+timeCreated: 1509378833
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Defaults/Shore/VoxelBeachTop.asset
+  uploadId: 643770

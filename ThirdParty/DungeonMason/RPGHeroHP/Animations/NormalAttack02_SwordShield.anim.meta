@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c4f95ca2d345314aa26717c748c13ee
+timeCreated: 1529752705
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/ThirdParty/DungeonMason/RPGHeroHP/Animations/NormalAttack02_SwordShield.anim
+  uploadId: 643770

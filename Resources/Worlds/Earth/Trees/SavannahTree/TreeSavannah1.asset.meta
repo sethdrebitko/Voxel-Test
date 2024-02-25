@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05a5eed52cabfa24d8ad38f63a472ae9
+timeCreated: 1513012787
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Trees/SavannahTree/TreeSavannah1.asset
+  uploadId: 643770

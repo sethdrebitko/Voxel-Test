@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74b6884713fe3456781a2071d29c758b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Other/WorldSpaceMappedWithBumpMap/WorldSpaceMappedMaterial.mat
+  uploadId: 643770

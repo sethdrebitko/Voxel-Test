@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3babd1976282a6409704189e88e9b10
+timeCreated: 1529753150
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/ThirdParty/DungeonMason/RPGHeroHP/Materials/Glove.mat
+  uploadId: 643770

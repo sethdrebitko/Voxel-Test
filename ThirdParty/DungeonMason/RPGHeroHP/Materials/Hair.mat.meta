@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3712bd64d6e63fa479fa807610990250
+timeCreated: 1529753150
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/ThirdParty/DungeonMason/RPGHeroHP/Materials/Hair.mat
+  uploadId: 643770

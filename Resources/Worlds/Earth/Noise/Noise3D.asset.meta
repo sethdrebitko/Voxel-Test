@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 255cdd1ba3602491bbc009355983a02f
+timeCreated: 1533798220
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Noise/Noise3D.asset
+  uploadId: 643770

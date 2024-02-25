@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90fb3f0c7c4334f2aa86d3574f9858c9
+timeCreated: 1510673587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Underwater/UnderwaterShrub2.asset
+  uploadId: 643770

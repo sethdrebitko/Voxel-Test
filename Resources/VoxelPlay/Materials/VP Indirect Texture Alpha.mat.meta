@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ef65bcc487774d53b33f2fe481a250d
+timeCreated: 1523431817
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Indirect Texture
+    Alpha.mat
+  uploadId: 643770

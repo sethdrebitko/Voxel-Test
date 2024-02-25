@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de6d8cea2f18d4a3d84c4d68201e34e9
+timeCreated: 1508341801
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP UnderWater Realistic.mat
+  uploadId: 643770

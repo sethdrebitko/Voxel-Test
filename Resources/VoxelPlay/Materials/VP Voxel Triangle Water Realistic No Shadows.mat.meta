@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50d8d937bf7a44a0cbc837e6b8ae51ad
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Triangle Water
+    Realistic No Shadows.mat
+  uploadId: 643770

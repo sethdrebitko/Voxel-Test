@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 362f95d1e623f4d5794a3d3099e11328
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPCommon.cginc
+  uploadId: 643770

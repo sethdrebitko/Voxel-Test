@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d4fff5939ef449f99916a471f7e6803
+timeCreated: 1509360710
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Voxels/Savannah/VoxelSavannahDirt.asset
+  uploadId: 643770

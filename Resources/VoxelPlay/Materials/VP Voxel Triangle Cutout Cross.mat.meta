@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50a6e6817e4244a80903407fd356ef79
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Triangle Cutout
+    Cross.mat
+  uploadId: 643770

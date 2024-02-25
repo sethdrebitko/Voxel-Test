@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 786f9e099a406448f9e697fa0faccc97
+timeCreated: 1507220086
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Sounds/Sound licenses.txt
+  uploadId: 643770

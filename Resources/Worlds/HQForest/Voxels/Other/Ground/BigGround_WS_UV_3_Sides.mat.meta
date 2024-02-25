@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2115dfffcb31a435eaf01424ee132672
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/HQForest/Voxels/Other/Ground/BigGround_WS_UV_3_Sides.mat
+  uploadId: 643770

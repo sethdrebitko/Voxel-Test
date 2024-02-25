@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3dc7698918d14bada91cfa835d8f38b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPCurvedUnlitPass.cginc
+  uploadId: 643770

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd444c95429754120991e94250917879
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPModelTextureAlphaDoubleSided.shader
+  uploadId: 643770

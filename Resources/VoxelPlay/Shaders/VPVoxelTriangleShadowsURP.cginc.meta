@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88a2964db396948ee9b784a59500864a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPVoxelTriangleShadowsURP.cginc
+  uploadId: 643770

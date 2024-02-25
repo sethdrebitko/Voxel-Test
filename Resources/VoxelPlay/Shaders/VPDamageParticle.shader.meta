@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c20e6c7663f9d41fb80042a5ab790e22
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPDamageParticle.shader
+  uploadId: 643770

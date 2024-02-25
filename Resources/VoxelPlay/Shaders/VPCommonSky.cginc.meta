@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3b0bd21910f1448eb42f3b8b2a0589c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPCommonSky.cginc
+  uploadId: 643770

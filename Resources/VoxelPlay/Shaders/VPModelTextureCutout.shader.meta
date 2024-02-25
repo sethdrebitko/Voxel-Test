@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 952a2ed05485a481fad7fcd1306e3153
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPModelTextureCutout.shader
+  uploadId: 643770

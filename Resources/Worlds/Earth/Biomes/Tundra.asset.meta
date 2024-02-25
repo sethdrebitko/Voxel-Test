@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6529c4ade1ef7407cb0745350aeb3c3c
+timeCreated: 1509361177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Tundra.asset
+  uploadId: 643770

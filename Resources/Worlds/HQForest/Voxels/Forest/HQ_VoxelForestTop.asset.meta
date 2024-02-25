@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 867e58c92c4754d59aa1e14b69346f7b
+timeCreated: 1509378882
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/Worlds/HQForest/Voxels/Forest/HQ_VoxelForestTop.asset
+  uploadId: 643770

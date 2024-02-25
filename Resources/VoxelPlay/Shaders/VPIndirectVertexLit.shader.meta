@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 332a7def37fb84ae9a1f5fa93dc54103
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Shaders/VPIndirectVertexLit.shader
+  uploadId: 643770

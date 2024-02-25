@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2bcfe5c42893048dbb98b929a751f22d
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Triangle Opaque
+    World Space UV Bumped 6 Sides.mat
+  uploadId: 643770

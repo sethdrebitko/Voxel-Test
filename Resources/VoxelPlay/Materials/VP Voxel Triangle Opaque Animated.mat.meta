@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a06cc8526fb34406a95b11a1072da3cf
+timeCreated: 1506597139
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201234
+  packageName: Voxel Play 2
+  packageVersion: 13.9.1
+  assetPath: Assets/Voxel Play/Resources/VoxelPlay/Materials/VP Voxel Triangle Opaque
+    Animated.mat
+  uploadId: 643770
